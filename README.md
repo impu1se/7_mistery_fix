@@ -1,6 +1,4 @@
 # Purpose of the programm
-Root quadratic equation
+##Root quadratic equation
 # Working with the programm
-Запустить файл test.py который проверяет файл quadratic_equation.py на наличие ошибок.
-В случае успешного прохождения теста, вы увидите соответствующее уведомление:  
-  `Ran 4 tests in 0.000s OK`
+To calculate the square of the equation  import the file quadratic_equation.py and call `get_roots()` function takes three position arguments - *a, b, c*.
